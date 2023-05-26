@@ -1,0 +1,48 @@
+User story -> Testcase doc->727821TUME004
+
+Gmail Login
+Test scenario:
+1.As an admin,
+I have to validate user login
+
+Acceptance criteria or Testcases:
+a)Validate gmail login with valid uid and pwd.
+b)Validate gmail login with invalid uid and pwd, it should display invalid uid and pwd
+c)With valid uid and pwd, it should direct to home page
+
+
+Gmail compose mail
+Test Scenario:
+As an admin, I have to validate compose mail.
+
+Acceptance criteria or Testcases:
+a)validate the compose mail with valid mail id and msg body.
+b)validate the compose mail with invalid mail id and msg body, it should send the mail.
+c)validate the compose mail with attachments
+
+
+Gmail delete mail
+Test Scenario:
+As an admin, I have to validate delete mail.
+
+Acceptance criteria or Testcases:
+a)validate the  delete  mail to be deleted.
+b)validate the  delete mail to be trashed.
+
+
+Gmail search mail
+Test Scenario:
+As an admin, I have to validate search mail.
+
+Acceptance criteria or Testcases:
+a)validate the  search  mail by clicking search icon.
+b)validate the  search mail by not clicking search icon.
+
+
+Gmail draft mail
+Test Scenario:
+As an admin, I have to validate draft mail.
+
+Acceptance criteria or Testcases:
+a)validate the  draft  mail by exiting message.
+b)validate the  draft mail by saving message.
